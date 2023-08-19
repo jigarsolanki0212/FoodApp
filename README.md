@@ -35,10 +35,22 @@
 ![Screenshot_1692439439](https://github.com/jigarsolanki0212/FoodApp/assets/79460184/48b9e024-c443-4971-825c-c5cc23d56178)
 
 
+=> Cart UI
+
+![Screenshot_1692441648](https://github.com/jigarsolanki0212/FoodApp/assets/79460184/7580bc39-02ab-4256-8efa-d3c782ad7dfc)
+
+=> Checkout Screen
+
+![Screenshot_1692441681](https://github.com/jigarsolanki0212/FoodApp/assets/79460184/20e74c3f-0917-4e07-af17-44b721150fa2)
+
+
 => Profile Screen
 
 ![Screenshot_1692439450](https://github.com/jigarsolanki0212/FoodApp/assets/79460184/226b0974-1fac-4f74-9460-c2d9330e7555)
 
+=> Order Details
+
+![Screenshot_1692441709](https://github.com/jigarsolanki0212/FoodApp/assets/79460184/7b848188-97ae-42aa-ac7f-be58777e9026)
 
 => Edit Profile
 
