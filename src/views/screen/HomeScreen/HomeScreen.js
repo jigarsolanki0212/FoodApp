@@ -62,6 +62,7 @@ const HomeScreen = ({navigation}) => {
 
       dispatch(apiFinish({fruits, uniqueCategories}));
     }
+    g;
   };
 
   const Item = ({item, onPress, backgroundColor, textColor}) => (
