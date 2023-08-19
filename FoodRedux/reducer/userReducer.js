@@ -11,6 +11,7 @@ const initialState = {
       price: 2.49,
       Categories: 'Fruits',
       description: 'The Cliffs of Cinque Terre',
+      outOfStock: true,
     },
 
     {
@@ -22,6 +23,7 @@ const initialState = {
       price: 3.99,
       Categories: 'Fruits',
       description: 'Rialto Bridge, Venezia, Italy',
+      outOfStock: false,
     },
     {
       id: '3',
@@ -32,6 +34,7 @@ const initialState = {
       price: 1.99,
       Categories: 'Vegetables',
       description: 'Rialto Bridge, Venezia, Italy',
+      outOfStock: false,
     },
     {
       id: '4',
@@ -42,6 +45,7 @@ const initialState = {
       price: 2.99,
       Categories: 'Vegetables',
       description: 'Rialto Bridge, Venezia, Italy',
+      outOfStock: false,
     },
     {
       id: '5',
@@ -52,6 +56,7 @@ const initialState = {
       price: 1.49,
       Categories: 'Fast food',
       description: 'Rialto Bridge, Venezia, Italy',
+      outOfStock: false,
     },
     {
       id: '6',
@@ -62,6 +67,7 @@ const initialState = {
       price: 9,
       Categories: 'Fast food',
       description: 'Rialto Bridge, Venezia, Italy',
+      outOfStock: true,
     },
     {
       id: '7',
@@ -72,6 +78,7 @@ const initialState = {
       price: 12.2,
       Categories: 'Fast food',
       description: 'Rialto Bridge, Venezia, Italy',
+      outOfStock: false,
     },
     {
       id: '8',
@@ -82,6 +89,7 @@ const initialState = {
       price: 50,
       Categories: 'Fast food',
       description: 'Rialto Bridge, Venezia, Italy',
+      outOfStock: false,
     },
     {
       id: '9',
@@ -92,6 +100,7 @@ const initialState = {
       price: 13,
       Categories: 'Fast food',
       description: 'Rialto Bridge, Venezia, Italy',
+      outOfStock: true,
     },
     {
       id: '10',
@@ -102,6 +111,7 @@ const initialState = {
       price: 45,
       Categories: 'Fast food',
       description: 'Rialto Bridge, Venezia, Italy',
+      outOfStock: false,
     },
   ],
   categories: [],
